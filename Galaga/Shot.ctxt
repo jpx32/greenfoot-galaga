@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Shot
+comment1.params=
+comment1.target=Shot()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=pn
+comment3.target=void\ addScore(double)
+comment4.params=pa
+comment4.target=void\ minusHealth(int)
+comment5.params=pf
+comment5.target=void\ minustwoHealth(int)
+comment6.params=pp
+comment6.target=void\ minusthreeHealth(int)
+comment7.params=pu
+comment7.target=void\ minusultimateHealth(int)
+numComments=8
